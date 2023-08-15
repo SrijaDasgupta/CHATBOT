@@ -4,6 +4,6 @@ This is a very simple "chatbot" using nothing but JavaScript, HTML, & CSS. I put
 
 
 
-[Demo](https://sylviapap.github.io/chatbot/)
+[Demo](https://srijadasgupta.github.io/ChatBot/)
 
 
